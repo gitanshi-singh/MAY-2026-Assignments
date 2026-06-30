@@ -6,7 +6,7 @@ namespace MAY_250526
 {
     internal class Q3_arraysum
     {
-//WAP to find remainder of a number without using mod operator
+// Sum of 2D array and store the sum in third array
         public static void Run()
         {
             int[,] A = new int[2, 2];
