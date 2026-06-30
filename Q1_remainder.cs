@@ -6,7 +6,7 @@ namespace MAY_250526
 {
     internal class Q1_remainder
     {
-// Sum of 2D array and store the sum in third array
+//WAP to find remainder of a number without using mod operator
         public static void Run()
         {
             int dividend, divisor, quotient, remainder;
